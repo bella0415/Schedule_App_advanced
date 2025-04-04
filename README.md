@@ -128,7 +128,10 @@ git clone https://github.com/bella0415/Schedule_App_advanced.git
 
 ## 🧩 ERD (Entity Relationship Diagram)
 
+<img width="625" alt="ERD" src="https://github.com/user-attachments/assets/c65f0681-4901-4544-8c1d-b9dd8f939312" />
+
 간단한 관계 요약:
+
 
 ```
 User (1) ⟶ (N) Schedule  
