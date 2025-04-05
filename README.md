@@ -20,19 +20,16 @@
 ## 🧾 실행 방법
 
 ```bash
-# 1. 프로젝트 클론
+1. 프로젝트 클론
 git clone https://github.com/bella0415/Schedule_App_advanced.git
-
-# 2. IDE에서 열기 (IntelliJ 권장)
-# 3. Gradle sync & 빌드
-
-# 4. 실행
+2. IDE에서 열기 (IntelliJ 권장)
+3. Gradle sync & 빌드
+4. 실행
 ```
 
 접속 경로:
 - API 서버: `http://localhost:8080`
 - H2 Console: `http://localhost:8080/h2-console` (JDBC URL: `jdbc:h2:mem:testdb`)
-
 ---
 
 ## 📌 주요 API 명세
